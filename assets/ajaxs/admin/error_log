@@ -1,0 +1,4 @@
+[15-Apr-2023 05:42:09 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/cwhitebearrbcom/public_html/config/config.php on line 11
+[15-Apr-2023 05:42:09 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/cwhitebearrbcom/public_html/config/config.php on line 11
+[15-Apr-2023 06:01:45 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/cwhitebearrbcom/public_html/config/config.php on line 11
+[15-Apr-2023 06:01:45 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/cwhitebearrbcom/public_html/config/config.php on line 11
